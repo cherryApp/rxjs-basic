@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jimmy Fallon",
+      "email": "jf@gmail.com",
+      "age": "45",
+      "address": "LA"
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "age": "50",
+      "email": "johndoe@gmail.com",
+      "address": "Budapest"
+    },
+    {
+      "id": 5,
+      "name": "Joe Filpo",
+      "email": "jf@gamil.com",
+      "age": "120",
+      "address": "Larnaca"
+    },
+    {
+      "id": 6,
+      "name": "Jim Beam",
+      "email": "jb@gmail.com",
+      "age": "500",
+      "address": "Scotland"
+    }
+  ]
+}
