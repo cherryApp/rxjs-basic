@@ -8,25 +8,11 @@
       "address": "LA"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "John Doe",
-      "age": "50",
-      "email": "johndoe@gmail.com",
-      "address": "Budapest"
-    },
-    {
-      "id": 5,
-      "name": "Joe Filpo",
-      "email": "jf@gamil.com",
-      "age": "120",
-      "address": "Larnaca"
-    },
-    {
-      "id": 6,
-      "name": "Jim Beam",
-      "email": "jb@gmail.com",
-      "age": "500",
-      "address": "Scotland"
+      "email": "jd@gmail.com",
+      "age": "55",
+      "address": "NY"
     }
   ]
 }
